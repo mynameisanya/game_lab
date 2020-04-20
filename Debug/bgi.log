@@ -1,0 +1,17 @@
+﻿  main.cxx
+c:\users\анна\desktop\kdfjg\main.cxx(48): warning C4996: 'strnset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnset. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(586): note: see declaration of 'strnset'
+c:\users\анна\desktop\kdfjg\main.cxx(73): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\анна\desktop\kdfjg\main.cxx(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\анна\desktop\kdfjg\main.cxx(187): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\анна\desktop\kdfjg\main.cxx(188): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\анна\desktop\kdfjg\main.cxx(194): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\анна\desktop\kdfjg\main.cxx(181): warning C4101: 'k': unreferenced local variable
+c:\users\анна\desktop\kdfjg\main.cxx(181): warning C4101: 't': unreferenced local variable
+  bgi.vcxproj -> C:\Users\Анна\Desktop\kdfjg\Debug\bgi.exe
+  bgi.vcxproj -> C:\Users\Анна\Desktop\kdfjg\Debug\bgi.pdb (Full PDB)
